@@ -17,4 +17,4 @@ Thanks to Oleg Semyonov for his help with the IAR tools port!
 
 #include "usbdrvasm.S"
 
-end
+//end
